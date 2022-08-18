@@ -10,7 +10,7 @@ int main(){
     b = 0xaa;
     c = (a<<8)+b;
     printf("%x\n\r",c);
-
+	//change
 }
 
 
