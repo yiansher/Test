@@ -9,7 +9,7 @@ int main(){
     a = 0x55;
     b = 0xaa;
     c = (a<<8)+b;
-    printf("%x\n\r",c);
+    printf("%x\n\r",c);		//leaf is change
 	//change
 }
 
