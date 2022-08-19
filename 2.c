@@ -9,8 +9,7 @@ int main(){
     a = 0x55;
     b = 0xaa;
     c = (a<<8)+b;
-    printf("%x\n\r",c);		master's branch change
-	//change
+    printf("%x\n\r",c);	//only master's branch change
 }
 
 
