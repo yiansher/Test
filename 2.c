@@ -8,7 +8,7 @@ int main(){
     uint16_t c;
     a = 0x55;
     b = 0xaa;
-    c = (a<<8)+b;
+    c = (a<<8)+b;	//I have do something new
     printf("%x\n\r",c);	//only master's branch change
 }
 
